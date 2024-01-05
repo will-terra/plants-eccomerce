@@ -248,36 +248,6 @@
       ],
       "description": "Crinkle leaf plants (Adromischus cristatus) are easygoing, unique-looking succulents that make excellent additions to your home or garden. The crinkle lead plant is a small and slow grower characterized by its fleshy, triangular, gray-green leaves that grow upward out of a central base and are crinkled at the top. The leaves of the crinkle leaf plant are covered in tiny hairs, giving them a fuzzy appearance. The succulent is best planted in the spring, but if grown indoors, it can be planted in any season.",
       "imgUrl": "assets/adromischusCristatus.svg"
-    },
-    {
-      "name": "sdfsd",
-      "subtitle": "asdf",
-      "price": "$3.00",
-      "discountPercentage": 3,
-      "label": [
-        "indoor",
-        "asdf"
-      ],
-      "features": "dd",
-      "description": "d",
-      "isInSale": true,
-      "imgUrl": "assets/EchinocereusCactus.svg",
-      "id": 13
-    },
-    {
-      "name": "ewrw",
-      "subtitle": "wer",
-      "price": "$33.00",
-      "discountPercentage": null,
-      "label": [
-        "indoor",
-        "wer"
-      ],
-      "features": "dfsf",
-      "description": "sdf",
-      "isInSale": false,
-      "imgUrl": "assets/EchinocereusCactus.svg",
-      "id": 14
     }
   ],
   "devs": [
