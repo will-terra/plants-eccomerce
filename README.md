@@ -20,7 +20,7 @@
 - [x] Servidor JSON para simular um banco de dados;
 - [x] React Router para criar o roteamento;
 - [x] Criar, no mínimo, um método POST e um método GET para preencher o “banco de dados” e ler as informações;
-- [ ] Ao clicar no cartão de uma planta, é necessário redirecionar o usuário para a rota específica que contém suas informações detalhadas;
+- [x] Ao clicar no cartão de uma planta, é necessário redirecionar o usuário para a rota específica que contém suas informações detalhadas;
 - [x] Crie controles deslizantes para exibir as plantas. Recomendação de biblioteca: Splide. Documentos do Splide for React;
 - [x] Os componentes de cabeçalho e rodapé precisam ser renderizados em todas as páginas;
 - [x] Ao preencher o formulário de cadastro da planta, é necessário fazer uma solicitação POST para seu banco de dados JSON Server;
@@ -29,13 +29,13 @@
 - [x] Caso uma planta tenha desconto, ele será renderizado na seção “Plantas em promoção”;
 - [x] Você precisa criar uma página “Sobre nós” que contenha informações sobre os desenvolvedores;
 - [x] Você precisa criar uma página “Produtos” que contenha todas as plantas cadastradas;
-- [ ] Telas responsivas
+- [x] Telas responsivas
 
 
 * Requisitos - Checklist (Não obrigatórios)
     
 - [ ] TypeScript com React (arquivos tsx);
-- [ ] Páginas personalizadas de login e inscrição;
+- [x] Páginas personalizadas de login e inscrição;
 - [ ] Use Next.js em vez de React
 
 ### 🛠 Tecnologias 

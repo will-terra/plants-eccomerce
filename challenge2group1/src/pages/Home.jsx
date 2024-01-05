@@ -10,7 +10,7 @@ import { dynamicPageTitle } from "../util/util";
 export default function Home() {
   dynamicPageTitle(window.location.pathname);
   return (
-    <main>
+    <main className="overflow-x-hidden">
       <HomeContainer>
         <HomeItemContainer>
           <div className="flex w-full grow  justify-center bg-gelo ">
