@@ -63,8 +63,8 @@ export const ProductDetail = () => {
             <li key={index}>{feature}</li>
           ))}
         </ul>
-        <p className="text-black text-[24px] font-bold font-lato">
-          Discription
+        <p className="text-black text-[24px] mb-4 font-bold font-lato">
+          Description
         </p>
         <p className="text-base mb-4 text-black text-[16px] font-raleway">
           {plant.description}
