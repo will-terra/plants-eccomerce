@@ -23,7 +23,12 @@ export default function About() {
   }, []);
 
   return (
+    
     <section className="bg-gelo flex flex-wrap justify-center w-[] pb-10 md:b-20">
+      <div className="w-full pb-5 md:pb-10 ">
+        <h1 className="text-lunar text-center text-[64px] font-bold font-garamond ">
+          About <span className="text-abacate">Us</span></h1>
+      </div>
       {dataNotFetched ? (
         <p>Fetching data...</p>
       ) : (
