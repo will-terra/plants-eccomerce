@@ -32,7 +32,7 @@ export default function PlantRegistration() {
     });
 
     data.label = [data.label, data.type];
-    data.imgUrl = "assets/EchinocereusCactus.svg";
+    data.imgUrl = "assets/echinocereusCactus.svg";
     delete data.type;
 
     fetchPlants(data);
